@@ -1,7 +1,7 @@
-# YOLOv3
+# YOLOv8
 Keras(TF backend) implementation of yolo v3 objects detection. 
 
-According to the paper [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf).
+According to the paper [YOLOv8: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv8.pdf).
 
 ## Requirement
 - OpenCV 3.4
